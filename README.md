@@ -31,22 +31,3 @@ sts4, spring boot, mybatis, oracle, geolocation, exif, autocomplete, aws
 
 ---
 
-## bug 및 개선사항
-
- > 1. ~~home일 경우 range에 대한 값을 받아오지 못함.~~
- >
- >    ~~feed_scroll_event - 82 line~~
- >
- > 2. ~~sublist.size()가10 이후에 20보다 작을경우 다음 리스트를 가져오지 못하고 있음. -> 10개씩만 불러옴~~
- >
- >    ~~FeedRestController - 388 line~~
- >
- >    ~~다른 페이지의 경우 정상적으로 작동하는 것 확인. home일 경우에만 10개 이후의 데이터를 가져오지 못함. 위의 문제와 연관 있는 것으로 보임~~
- >
- > 3. 모바일 페이지를 구현하지 않음
- >
- > 4. 신고 기능(신고가 3~5개 이상이면 일시적으로 비공개 처리가 되고 관리자가 이후 처리하게)
- >
- > 5. 로그인 안되어 있을 때 스크롤 내렸을 때 로그인 모달창 안뜨는 문제 발생
- >
- >    scrollEventHandler가 제대로 작동하지 않음
