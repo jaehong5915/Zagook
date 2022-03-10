@@ -37,12 +37,12 @@
 <br>
 
 웹 페이지 계층 구조
-![](계층구조1.png)
+![](img/계층구조1.png)
 
 <br>
 
 ERD 설계
-![](erd.png)
+![](img/erd.png)
 
 ---
 
@@ -55,7 +55,7 @@ ERD 설계
 - 좋아요, 댓글 (댓글 아이디 클릭 시 유저의 피드 페이지로 이동)
 <br>
 
-![](feed.png)
+![](img/feed.png)
 <br>
 
 
@@ -67,7 +67,7 @@ ERD 설계
 - 마이페이지 구현(회원 상세정보, 프로필 소개)
 <br>
 
-![](login.png)
+![](img/login.png)
 <br>
 
 3. 게시물 등록
@@ -77,7 +77,7 @@ ERD 설계
 - 공개 범위 설정 (0: 비공개/ 1: 친구/ 2: 전체)
 <br>
 
-![](insert.png)
+![](img/insert.png)
 <br>
 
 4. 친구 관리
@@ -93,5 +93,5 @@ ERD 설계
 - 아이콘 클릭 시 챗봇 모달 생성
 - 모달 ON/OFF 토글을 통해 챗봇 ON/OFF 기능 구현
 
-<p align="center"><img width="400" height="350"  src="chat.png"></p>
+<p align="center"><img width="400" height="350"  src="img/chat.png"></p>
 
