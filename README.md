@@ -93,5 +93,5 @@ ERD 설계
 - 아이콘 클릭 시 챗봇 모달 생성
 - 모달 ON/OFF 토글을 통해 챗봇 ON/OFF 기능 구현
 
-<p align="center"><img width="400" height="350"  src="img/chat.png"></p>
+<p align="left"><img width="400" height="350"  src="img/chat.png"></p>
 
