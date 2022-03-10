@@ -85,7 +85,7 @@ ERD 설계
 - 친구 관리 페이지를 통해 친구 수락 혹은 삭제 가능
 <br>
 
-![](friend.png)
+![](img/friend.png)
 <br>
 
 5. 챗봇 서비스
